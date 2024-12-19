@@ -1,0 +1,7 @@
+{
+  "name": "scripts",
+  "type": "module",
+  "scripts": {
+    "organize": "node organize-code.js"
+  }
+}
